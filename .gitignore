@@ -1,0 +1,5 @@
+build/
+index.txt
+*.exe
+*.o
+.vscode/
